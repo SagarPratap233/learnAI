@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.env
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data
+*.csv
+*.json
+*.xls
+*.xlsx
+*.sqlite3
+
+# IDE specific files
+.vscode/
+
+# Operating System files
+.DS_Store
+.localized
